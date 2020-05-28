@@ -1,0 +1,14 @@
+{
+  "name": "Exercise-1",
+  "version": "1.0.0",
+  "description": "Simple project with Type Script intended to be an exercies",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Dusan Milutinovic",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
